@@ -10,7 +10,6 @@ module.exports = {
 			return;
 		}
 
-
 		if (interaction.isChatInputCommand()) {
 			try {
 				await command.execute(interaction);
