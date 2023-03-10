@@ -12,7 +12,8 @@ const {
 	createAudioResource,
 	VoiceConnectionStatus } = require('@discordjs/voice');
 
-// Peut aussi être utilisé avec le nom du fichier à jouer
+// TODO: Peut aussi être utilisé avec le nom du fichier à jouer
+// TODO: Queue
 
 module.exports = {
 	data: new SlashCommandBuilder()
