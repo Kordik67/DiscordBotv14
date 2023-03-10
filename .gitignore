@@ -1,4 +1,5 @@
 node_modules
 config.json
 .eslintrc.json
-songs/*.*
+*.mp3
+*.mp4
